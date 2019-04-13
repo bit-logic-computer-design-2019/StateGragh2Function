@@ -1,0 +1,14 @@
+{
+    "type": "grey",
+    "input": ["L1","L2","NI","L3","TZ","STOP","LO","START"],
+    "state": ["Init","Fill_1","Fill_2","Fill_3","Mix","Empty"],
+    "output": ["V1","V2","V3","PST","MX","VE","TM"],
+    "default": {
+        "xxx": true
+    },
+    "sub": {
+        
+    },
+    "datafile": "csv data file full path"
+
+}
